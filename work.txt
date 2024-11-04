@@ -1,0 +1,4 @@
+React camera UI
+API GPT/GEMINI
+speech to text : catch propmt
+text to speech : speak output
